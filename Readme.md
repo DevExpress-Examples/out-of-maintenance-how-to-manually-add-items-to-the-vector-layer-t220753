@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainPage.xaml](./CS/ManualItems/MainPage.xaml) (VB: [MainPage.xaml](./VB/ManualItems/MainPage.xaml))**
+<!-- default file list end -->
 # How to manually add items to the vector layer
 
 
